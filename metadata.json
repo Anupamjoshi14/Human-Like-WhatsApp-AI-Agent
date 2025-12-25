@@ -1,0 +1,7 @@
+{
+  "name": "Human-Like WhatsApp AI Agent",
+  "description": "A high-fidelity WhatsApp conversational agent simulator that uses Gemini 3 to detect intent, emotion, and provide warm, human-like responses with context memory.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
